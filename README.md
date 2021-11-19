@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: http://maksmarcinkiewicz.me/nft-preview-card-component/ 
+- Live Site URL: https://maksmarcinkiewicz.github.io/nft-preview-card-component/
 
 ## My process
 
